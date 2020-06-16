@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css?family=Allerta');
+
+body {
+    font-family: 'Allerta', sans-serif;
+    background-color: #4984D0;
+}
+
+.main-section {
+    margin: 0 auto;
+    margin-top: 130px;
+    padding: 0;
+}
+
+.modal-content {
+    background-color: #b2d8f5;
+    padding: 0 18px;
+    box-shadow: 0px 0px 5px #12308b;
+}
+
+.user-img {
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+
+.user-img img {
+    width: 210px;
+    height: 250px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+    color: #4984d0;
+}
+
+.form-group small {
+    font-size: 9.5px;
+    color: #2754b3;
+    text-align: left;
+}
+
+.form-group input, .form-group select{
+    height: 42px;
+    border: 1px solid #4984D0;
+    border-radius: 0px;
+    font-size: 12px; 
+    background-color: #b2d8f5;
+    color: #4984d0;
+    padding-left: 15px;
+  }
+
+.form-group input::placeholder {
+    color: #4984d0;
+}
+
+button {
+    width: 75%;
+    margin: 10px 17.75px 25px;
+    text-align: center;
+}
+
+.btn {
+    background-color: #2754B3;
+    color: #fff;
+    font-size: 19px;
+    padding: 7px 14px;
+    text-align: center;
+    border-radius: 3px;
+}
+
+.btn:hover, .btn:focus {
+    background-color: #12308b!important;
+    color: #fff;
+}
+
+.forgot {
+    padding: 5px 0px 10px;
+    margin: -8px 77px;
+}
+
+.forgot a {
+    font-size: 12px;
+    color: #2754b3;
+}
+
+.new-account {
+    padding: 5px 0 25px;
+}
+
+.new-account a {
+    color: #2754b3;
+}
+
+.new-account span {
+    color: #4984D0;
+}
+
+label {
+    font-size: 19px;
+    color: #4984D0;
+    padding: 22px;
+}
+
+
